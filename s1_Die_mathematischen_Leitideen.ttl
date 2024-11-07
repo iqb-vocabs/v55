@@ -345,7 +345,7 @@ n1:r3s
 	skos:inScheme n0:;
 	skos:notation "L 4.2.3";
 	skos:broader n1:b2r;
-	skos:prefLabel "die ln-Funktion als Stammfunktion von x x  1 und als Umkehrfunktion der e-Funktion nutzen"@de.
+	skos:prefLabel "die ln-Funktion als Stammfunktion von x |-> 1/x und als Umkehrfunktion der e-Funktion nutzen"@de.
 n1:b2r
 	 a skos:Concept;
 	skos:inScheme n0:;

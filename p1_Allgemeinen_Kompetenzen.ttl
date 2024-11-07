@@ -510,9 +510,9 @@ n1:a6h
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Mathematik Sek II 2012 -  Allgemeinen Kompetenzen"@de;
+	dct:title "Bildungsstandards Mathematik Sek II 2012 - Die allgemeinen mathematischen Kompetenzen"@de;
 	dct:description """In den Bildungsstandards im Fach Mathematik für die Allgemeine Hochschulreife werden sechs allgemeine mathematische Kompetenzen unterschieden, die das Spektrum mathematischen Arbeitens in der Sekundarstufe II in hinreichender Breite erfassen. Dabei ist es weder möglich noch beabsichtigt, diese Kompetenzen scharf voneinander abzugrenzen. Es ist vielmehr typisch für mathematisches Arbeiten, dass mehrere Kompetenzen im Verbund benötigt werden. Dies trifft auch auf die Aufgabenbeispiele zu.
 
-Im Folgenden werden die sechs allgemeinen mathematischen Kompetenzen näher beschrieben, insbesondere auch durch ihre jeweiligen Ausprägungen in den drei Anforderungsbereichen. Wie in 1.2 betont, sind diese Kompetenzen immer untrennbar mit den – in den Leitideen konkretisierten – mathematischen Inhalten verbunden."""@de;
+Im Folgenden werden die sechs allgemeinen mathematischen Kompetenzen näher beschrieben, insbesondere auch durch ihre jeweiligen Ausprägungen in den drei Anforderungsbereichen. Wie in Textfassung 1.2 betont, sind diese Kompetenzen immer untrennbar mit den – in den Leitideen konkretisierten – mathematischen Inhalten verbunden."""@de;
 	skos:hasTopConcept
 		n1:a6h.

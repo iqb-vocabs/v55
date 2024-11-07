@@ -16,7 +16,7 @@
         "title": [
           {
             "lang": "de",
-            "value": " Allgemeinen Kompetenzen"
+            "value": "Die allgemeinen mathematischen Kompetenzen"
           }
         ],
         "filenameSource": "p1_Allgemeinen_Kompetenzen.csv",
@@ -24,7 +24,7 @@
         "description": [
           {
             "lang": "de",
-            "value": "\"\"In den Bildungsstandards im Fach Mathematik für die Allgemeine Hochschulreife werden sechs allgemeine mathematische Kompetenzen unterschieden, die das Spektrum mathematischen Arbeitens in der Sekundarstufe II in hinreichender Breite erfassen. Dabei ist es weder möglich noch beabsichtigt, diese Kompetenzen scharf voneinander abzugrenzen. Es ist vielmehr typisch für mathematisches Arbeiten, dass mehrere Kompetenzen im Verbund benötigt werden. Dies trifft auch auf die Aufgabenbeispiele zu.\n\nIm Folgenden werden die sechs allgemeinen mathematischen Kompetenzen näher beschrieben, insbesondere auch durch ihre jeweiligen Ausprägungen in den drei Anforderungsbereichen. Wie in 1.2 betont, sind diese Kompetenzen immer untrennbar mit den – in den Leitideen konkretisierten – mathematischen Inhalten verbunden.\"\""
+            "value": "\"\"In den Bildungsstandards im Fach Mathematik für die Allgemeine Hochschulreife werden sechs allgemeine mathematische Kompetenzen unterschieden, die das Spektrum mathematischen Arbeitens in der Sekundarstufe II in hinreichender Breite erfassen. Dabei ist es weder möglich noch beabsichtigt, diese Kompetenzen scharf voneinander abzugrenzen. Es ist vielmehr typisch für mathematisches Arbeiten, dass mehrere Kompetenzen im Verbund benötigt werden. Dies trifft auch auf die Aufgabenbeispiele zu.\n\nIm Folgenden werden die sechs allgemeinen mathematischen Kompetenzen näher beschrieben, insbesondere auch durch ihre jeweiligen Ausprägungen in den drei Anforderungsbereichen. Wie in Textfassung 1.2 betont, sind diese Kompetenzen immer untrennbar mit den – in den Leitideen konkretisierten – mathematischen Inhalten verbunden.\"\""
           }
         ]
       },
@@ -59,23 +59,6 @@
           {
             "lang": "de",
             "value": "Die Prüfungsaufgabe ist so zu stellen, dass sie Leistungen in den folgenden drei Anforderungsbereichen erfordert:"
-          }
-        ]
-      },
-      {
-        "id": "t2",
-        "title": [
-          {
-            "lang": "de",
-            "value": "Hinweise zur Prüfungsdurchführung"
-          }
-        ],
-        "filenameSource": "t2_Pruefungsdurchfuehrung.csv",
-        "filenameTarget": "t2_Pruefungsdurchfuehrung.ttl",
-        "description": [
-          {
-            "lang": "de",
-            "value": "Unter Berücksichtigung der „Vereinbarung über die Abiturprüfung der gymnasialen Oberstufe in der Sekundarstufe II“ i. d. g. F. und auf der Grundlage der in den Bildungsstandards festgelegten Kompetenzen, über die die Schülerinnen und Schüler am Ende der gymnasialen Oberstufe verfügen sollen, werden die nachfolgenden Regelungen für die Abiturprüfung festgelegt. Ausgehend von den verbindlichen Bereichen, in denen in den jeweiligen Fächern in der Abiturprüfung Kenntnisse, Fähigkeiten und Fertigkeiten nachzuweisen sind, wird im Folgenden insbesondere benannt, welche Arten von Aufgaben in der Abiturprüfung gestellt werden können, in welcher Weise die erwarteten Schülerleistungen zu beschreiben und nach welchen Kriterien die erbrachten Abiturprüfungsleistungen zu bewerten sind"
           }
         ]
       }
