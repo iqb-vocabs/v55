@@ -12,15 +12,15 @@
     "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
     "vocabularies": [
       {
-        "id": "p1",
+        "id": "k1",
         "title": [
           {
             "lang": "de",
             "value": "Die allgemeinen mathematischen Kompetenzen"
           }
         ],
-        "filenameSource": "p1_Allgemeinen_Kompetenzen.csv",
-        "filenameTarget": "p1_Allgemeinen_Kompetenzen.ttl",
+        "filenameSource": "k1_Allgemeinen_Kompetenzen.csv",
+        "filenameTarget": "k1_Allgemeinen_Kompetenzen.ttl",
         "description": [
           {
             "lang": "de",
@@ -29,15 +29,15 @@
         ]
       },
       {
-        "id": "s1",
+        "id": "l1",
         "title": [
           {
             "lang": "de",
             "value": "Die mathematischen Leitideen"
           }
         ],
-        "filenameSource": "s1_Die_mathematischen_Leitideen.csv",
-        "filenameTarget": "s1_Die_mathematischen_Leitideen.ttl",
+        "filenameSource": "l1_Die_mathematischen_Leitideen.csv",
+        "filenameTarget": "l1_Die_mathematischen_Leitideen.ttl",
         "description": [
           {
             "lang": "de",
@@ -46,15 +46,15 @@
         ]
       },
       {
-        "id": "t1",
+        "id": "a1",
         "title": [
           {
             "lang": "de",
             "value": "Anforderungsbereiche"
           }
         ],
-        "filenameSource": "t1_Anforderungsbereiche.csv",
-        "filenameTarget": "t1_Anforderungsbereiche.ttl",
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
         "description": [
           {
             "lang": "de",
